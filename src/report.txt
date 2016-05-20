@@ -1,0 +1,16 @@
+../results/B1.bzip2.res:LAB2_CPI                	 :      0.662
+../results/B1.gcc.res:LAB2_CPI                	 :      0.613
+../results/B1.libq.res:LAB2_CPI                	 :      0.545
+../results/B1.mcf.res:LAB2_CPI                	 :      0.796
+../results/B2.bzip2.res:LAB2_CPI                	 :      0.515
+../results/B2.gcc.res:LAB2_CPI                	 :      0.527
+../results/B2.libq.res:LAB2_CPI                	 :      0.545
+../results/B2.mcf.res:LAB2_CPI                	 :      0.661
+../results/B1.bzip2.res:LAB2_MISPRED_RATE       	 :     43.160
+../results/B1.gcc.res:LAB2_MISPRED_RATE       	 :     27.503
+../results/B1.libq.res:LAB2_MISPRED_RATE       	 :      0.000
+../results/B1.mcf.res:LAB2_MISPRED_RATE       	 :     24.900
+../results/B2.bzip2.res:LAB2_MISPRED_RATE       	 :      2.033
+../results/B2.gcc.res:LAB2_MISPRED_RATE       	 :      1.330
+../results/B2.libq.res:LAB2_MISPRED_RATE       	 :      0.000
+../results/B2.mcf.res:LAB2_MISPRED_RATE       	 :      0.568
