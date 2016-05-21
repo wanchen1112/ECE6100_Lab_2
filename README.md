@@ -1,5 +1,5 @@
 # ECE6100_Lab_2
-## 5-stage Superscalar Pipeline
+## 5-stage Superscalar Pipeline (Individual assignment)
 
 ### Objective
 This project is to evaluate the pipelined machine. In particular, the data dependencies between the pipeline stages was checked and the forwarding mechanism was implemented. Besides, the width of the superscalar can be up to 8 (Part A). Moreover, in the second phase of this project (Part B), the branch prediction was implemented as well.
